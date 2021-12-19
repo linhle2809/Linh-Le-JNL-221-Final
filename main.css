@@ -1,0 +1,97 @@
+body {
+  position: center;
+  font-family: Georgia, sans-serif;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+}
+
+header {
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+.mainimg {
+  padding: 40px;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+  font-family: PT serif, sans-serif;
+  padding-left: 15px;
+  padding-right: auto;
+  font-style: italic;
+  font-size: 60px;
+}
+
+h3 {
+  font-family: Georgia, sans-serif;
+  padding-left: 15px;
+  padding-right: auto;
+  font-size: 23px;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-family: Georgia, sans-serif;
+  padding-left: 15px;
+  padding-right: auto;
+  font-size: 18px;
+}
+
+iframe {
+  padding: 15px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.otherimg {
+  padding: 15px;
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+video {
+  padding: 15px;
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: center;
+}
+
+a {
+  color: #006400;
+}
+
+a:hover {
+  color: #1d123B;
+  text-decoration-color: #CCCC00;
+}
+
+a:visited {
+  color: #AA336A;
+}
